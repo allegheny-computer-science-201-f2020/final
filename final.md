@@ -10,9 +10,7 @@
 
 4\. Which of the following Java functions correctly finds the sum of the digits in a nonnegative integer named `eeek`? For instance, `sum(354) = 3+5+4=12` and `sum(10223) = 1+0+2+2+3 = 8`. Explain why your chosen answer is correct and why each of the other methods is incorrect.
 
-```
-  (a)
-```
+(a)
 
 ```
 int sum(int eeek) {
@@ -22,10 +20,7 @@ int sum(int eeek) {
 }
 ```
 
-```
-
-  (b)
-```
+(b)
 
 ```
 int sum(int eeek) {
@@ -36,10 +31,7 @@ int sum(int eeek) {
 }
 ```
 
-```
-
-  (c)
-```
+(c)
 
 ```
 int sum(int eeek) {
@@ -50,10 +42,7 @@ int sum(int eeek) {
 }
 ```
 
-```
-
-  (d)
-```
+(d)
 
 ```
 int sum(int eeek) {
