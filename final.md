@@ -115,7 +115,7 @@ Put "X" inside brackets [ ] of the correct answer.
 - [ ] True.
 - [ ] False.
 
-(c) _In C++ we can overload symbolic operators, such as_ .*
+(c) _In C++ we can overload symbolic operators, such as *._
 
 Put "X" inside brackets [ ] of the correct answer.
 
