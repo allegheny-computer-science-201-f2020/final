@@ -6,7 +6,7 @@
 
 2\. Explain short-circuit evaluation with a simple example involving the logical "or" operator "||".
 
-3\. Each of these three composite types - "array," "set," and "record" -can contain several values at once (e.g., an array could have three elements, a set could contain three elements, a record could contain three elements). What makes them different? Explain the differences between an array type, a set type, and a record type.
+3\. Each of these three composite types - "array," "set," and "record" - can contain several values at once (e.g., an array could have three elements, a set could contain three elements, a record could contain three elements). What makes them different? Explain the differences between an array type, a set type, and a record type.
 
 4\. Which of the following Java functions correctly finds the sum of the digits in a nonnegative integer named `eeek`? For instance, `sum(354) = 3+5+4=12` and `sum(10223) = 1+0+2+2+3 = 8`. Explain why your chosen answer is correct and why each of the other methods is incorrect.
 
