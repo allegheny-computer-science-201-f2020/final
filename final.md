@@ -49,11 +49,11 @@ int sum(int eeek) {
   if (eeek == 0)
     return 0;
   else
-    return  eeek % 10 + sum(eeek/10);
+    return eeek % 10 + sum(eeek/10);
 }
 ```
 
-5\. In Fortran, arrays are stored in column-major order; in C and Java they are stored in row-major order. Does it make any difference to the programmer which method is used? Explain.
+5\. In Fortran, arrays are stored in column-major order; in C and Java they are stored in row-major order. Does it make any difference to the programmer which method is used? Please justify your answer.
 
 6\. If you have tried to track down precise definitions of the terms "strongly typed" and "weakly typed" you have probably come away frustrated. Our textbook defines a "strongly typed language" as one that "prohibits ... the application of any operation to any object that is not intended to support that operation." Give an example of such an operation and such an object, using only standard primitive types.
 
@@ -99,30 +99,30 @@ int sum(int eeek) {
 
 9\. What are virtual functions? Describe a circumstance in which virtual functions would be appropriate.
 
-10\. True or false
+10\. **True or false**
 
-(a) Java supports multiple inheritance.
-
-Put "X" inside brackets [ ] of the correct answer.
-
-- [ ] True.
-- [ ] False.
-
-(b) C++ uses static binding by default.
+(a) _Java supports multiple inheritance._
 
 Put "X" inside brackets [ ] of the correct answer.
 
 - [ ] True.
 - [ ] False.
 
-(c) In C++ we can overload symbolic operators, such as *.
+(b) _C++ uses static binding by default._
 
 Put "X" inside brackets [ ] of the correct answer.
 
 - [ ] True.
 - [ ] False.
 
-(d) In lazy evaluation the parameters are evaluated exactly once.
+(c) _In C++ we can overload symbolic operators, such as_ .*
+
+Put "X" inside brackets [ ] of the correct answer.
+
+- [ ] True.
+- [ ] False.
+
+(d) _In lazy evaluation the parameters are evaluated exactly once._
 
 Put "X" inside brackets [ ] of the correct answer.
 
